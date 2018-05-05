@@ -1,2 +1,4 @@
 ぎっとテストなのだよ
 変更だよ
+・git add
+・git commit
