@@ -1,6 +1,6 @@
-‚¬‚Á‚ÆƒeƒXƒg‚È‚Ì‚¾‚æ
-•ÏX‚¾‚æ
-Egit add
-Egit commit
-Egit rm
-Egit status
+ï»¿ãã£ã¨ãƒ†ã‚¹ãƒˆãªã®ã ã‚ˆ
+å¤‰æ›´ã ã‚ˆ
+ãƒ»git add
+ãƒ»git commit
+ãƒ»git rm
+ãƒ»git status
